@@ -35,13 +35,10 @@ A simple 65% keyboard . This project is a special homage to TGR x Singa UNIKORN 
 
 ## Resources
 
-- Documents: https://drive.google.com/drive/folders/1tddSihOS8Pgf1lTQOjHohYCl8efxXIeH
+- Documents:[ https://drive.google.com/drive/folders/1tddSihOS8Pgf1lTQOjHohYCl8efxXIeH](https://drive.google.com/drive/folders/1sSfgU3eAuQ6ALXNzWFxaxJ5CiaJpyIK-?usp=drive_link)
   - Parts guide and other useful information
   - Will be added and updated as needed
-- Discord: https://discord.gg/fMY96TeEwV
-  - Have fun with community members
-  - Talk about Bakeneko builds and mods, and share your works
-  - You can also contact me from there
+
 
 ## Special thanks to
 My Dad for helping me start this project:)
