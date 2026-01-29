@@ -44,17 +44,6 @@ A simple 65% keyboard . This project is a special homage to TGR x Singa UNIKORN 
   - You can also contact me from there
 
 ## Special thanks to
+My Dad for helping me start this project:)
+He helped using his cunning intuition and overall genius!
 
-- **Elaine** for [Unikorn](https://geekhack.org/index.php?topic=98587.50). Allowed me to publish the Unikorn-inspired case as open source and encouraged me
-- Of course, I also show my respect and gratitude to **yuktsi**
-- **coarse** for PCB review and kind support. His great work has refined the PCB well
-
-## Also I should mention
-
-- **OTD** for 356 Mini. Origin of O-ring gasket mount style
-- **Evy** for [Plain60 series](https://github.com/evyd13/plain60-c). I used it as a reference for my PCB design. They also answered my miscellaneous questions
-- **ai03** for [MX_Alps_Hybrid](https://github.com/ai03-2725/MX_Alps_Hybrid). Also got a lot of help from his discord server
-- **overset** for [JP01](https://github.com/overset/JP01). The idea of publishing the case design on Onshape. After seeing their great work I switched from fusion360 to Onshape
-- **Rhuk** gave me a lot of advice on keyboard design and manufacturing
-- **Maker Keyboards** suggested adding a plate cutout to remove the PCB using a keycap puller
-- And many community members for giving me advice and feedback, thanks!
